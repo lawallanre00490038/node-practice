@@ -1,0 +1,22 @@
+body {
+    background-color: #be0b0b;
+    font-family: Arial, Arial, Helvetica,  sans-serif;
+    font-size: 1.5rem;
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+}
+
+input,
+button {
+    font: inherit;
+    width: 100%;
+}
+
+form {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    margin-top: 2rem;
+    gap: 1.5rem;
+}
