@@ -1,3 +1,5 @@
-/node_modules
+/node_modules   # Ignores the entire "node_modules" directory
+/uploads        # Ignores the entire "uploads" directory
+
+# Ignore the .test.js file
 test.js
-/uploads
